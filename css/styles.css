@@ -23,7 +23,8 @@ li {
 }
 a {
   color: orange;
-  text-decoration: none;
+  text-decoration-style: solid; 
+  font-weight: bold;
 }
 a:hover,
 a:focus {
@@ -260,7 +261,7 @@ nav h1 a {
   position: absolute;
 }
 #restaurant-name {
-  color: #f18200;
+  color: #ff9100;
   font-family: Arial, sans-serif;
   font-size: 20pt;
   font-weight: 200;
