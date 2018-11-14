@@ -13,6 +13,7 @@ This is a Udacity Project.
 </ul>
 
 ## How to run mapbox
+
 <ul>
   <li> you will need a key from the Mapbox </li>
   <li>If you do not already have a MapBox account, go ahead and create one</li>
